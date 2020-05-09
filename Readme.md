@@ -1,6 +1,6 @@
 # DHCP Server on Docker (Alpine Linux Image)
 
-## Save Dockerfile on a folder Ex: Banner
+## Save Dockerfile on a folder Ex: DHCP
 **Caution: Only one dockerfile per folder**
 
 ### Generate image
